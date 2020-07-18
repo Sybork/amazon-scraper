@@ -1,3 +1,5 @@
+[![Run on Repl.it](https://repl.it/badge/github/scrapehero-code/amazon-scraper)](https://repl.it/github/scrapehero-code/amazon-scraper)
+
 # Amazon Scraper using Selectorlib 
 
 A simple amazon scraper to extract product details and prices from Amazon.com using Python Requests and Selectorlib. 
